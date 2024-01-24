@@ -1,1 +1,3 @@
-# Dyno-command
+{delete}
+{DM: username}
+bdjdisissbdbdidoodjdb (text)
